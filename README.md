@@ -99,7 +99,7 @@ The purpose of this repository is to inform students and staff of alterations th
 <details><summary>Date1</summary>
     
 <p>
-        
+      Details of Date1's Patch Here!  
 </p>
         
 </details>
@@ -107,49 +107,89 @@ The purpose of this repository is to inform students and staff of alterations th
 <details><summary>Date2</summary>
 
 <p>
-        
+        Details of Date 2's Patch Here!
 </p>
         
 </details>
     
 </details>
 
-## INB1301 (Lab 1B)
-##### *Date  
-<details>
-  Details of Patch Here!
+<details><summary>INB1301 (Lab 1B)</summary>
+    
+<details><summary>Date1</summary>
+    
+<p>
+      Details of Date1's Patch Here!  
+</p>
+        
 </details>
 
-<details>
-  Details of Patch Here!
+<details><summary>Date2</summary>
+
+<p>
+        Details of Date 2's Patch Here!
+</p>
+        
+</details>
+    
 </details>
 
-## INB1101 (Lab 1C)
-##### *Date  
-<details>
-  Details of Patch Here!
+<details><summary>INB1101 (Lab 1C)</summary>
+    
+<details><summary>Date1</summary>
+    
+<p>
+      Details of Date1's Patch Here!  
+</p>
+        
 </details>
 
-<details>
-  Details of Patch Here!
+<details><summary>Date2</summary>
+
+<p>
+        Details of Date 2's Patch Here!
+</p>
+        
+</details>
+    
 </details>
 
-## INB2102 (Lab 2B)
-##### *Date  
-<details>
-  Details of Patch Here!
+<details><summary>INB2102 (Lab 2B)</summary>
+    
+<details><summary>Date1</summary>
+    
+<p>
+      Details of Date1's Patch Here!  
+</p>
+        
 </details>
 
-<details>
-  Details of Patch Here!
+<details><summary>Date2</summary>
+
+<p>
+        Details of Date 2's Patch Here!
+</p>
+        
+</details>
+    
 </details>
 
-## INB2305 (Lab 2C)
-##### *Date  
-<details>
-  Details of Patch Here!
+<details><summary>INB2305 (Lab 2C)</summary>
+    
+<details><summary>Date1</summary>
+    
+<p>
+      Details of Date1's Patch Here!  
+</p>
+        
 </details>
 
-<details>
-  Details of Patch Here!
+<details><summary>Date2</summary>
+
+<p>
+        Details of Date 2's Patch Here!
+</p>
+        
+</details>
+    
 </details>
