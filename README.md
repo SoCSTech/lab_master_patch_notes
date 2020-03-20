@@ -5,15 +5,15 @@ The purpose of this repository is to inform students and staff of alterations th
 ## 
 <details>
     <summary><INB1102 (Lab 1A)></summary>
-    * Case : ?  
-    * Motherboard : ?  
-    * CPU : ?  
-    * GPU : ?  
-    * PSU : ?  
-    * OS(s) : ?  
-    * RAM : ?  
-    * Storage : ?  
-    * Software: ?  
+    * Case : ?\  
+    * Motherboard : ?\  
+    * CPU : ?\
+    * GPU : ?\  
+    * PSU : ?\ 
+    * OS(s) : ?\  
+    * RAM : ?\
+    * Storage : ?\  
+    * Software: ?\ 
 </details>
 
 <details>
