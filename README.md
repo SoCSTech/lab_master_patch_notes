@@ -19,4 +19,4 @@ The purpose of this repository is to inform students and staff of alterations th
 
 # Patch Notes of Each Lab:
 # INB2305 (Lab 2C)
-<Date> : <Details>
+: <Details>
