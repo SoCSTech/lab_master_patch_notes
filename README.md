@@ -3,6 +3,7 @@ The purpose of this repository is to inform students and staff of alterations th
 
 # Current Status of Each Lab:
 ## <INB1102 (Lab 1A)>
+<details>
 * Case : ?
 * Motherboard : ?
 * CPU : ?
@@ -12,8 +13,10 @@ The purpose of this repository is to inform students and staff of alterations th
 * RAM : ? 
 * Storage : ?
 * Software: ?
+</details>
 
 ## INB1301 (Lab 1B)
+<details>
 * Case : ?
 * Motherboard : ?
 * CPU : ?
@@ -23,8 +26,10 @@ The purpose of this repository is to inform students and staff of alterations th
 * RAM : ? 
 * Storage : ?
 * Software: ?
+</details>
 
 ## INB1101 (Lab 1C)
+<details>
 * Case : ?
 * Motherboard : ?
 * CPU : ?
@@ -34,8 +39,10 @@ The purpose of this repository is to inform students and staff of alterations th
 * RAM : ? 
 * Storage : ?
 * Software: ?
-
+</details>
+  
 ## INB2102 (Lab 2B)
+<details>
 * Case : ?
 * Motherboard : ?
 * CPU : ?
@@ -45,8 +52,10 @@ The purpose of this repository is to inform students and staff of alterations th
 * RAM : ? 
 * Storage : ?
 * Software: ?
-
+</details>
+  
 ## INB2305 (Lab 2C)
+<details>
 * Case : ?
 * Motherboard : ?
 * CPU : ?
@@ -56,39 +65,55 @@ The purpose of this repository is to inform students and staff of alterations th
 * RAM : ? 
 * Storage : ?
 * Software: ?
+</details>
 
 # Patch Notes of Each Lab:
 ## <INB1102 (Lab 1A)>
-* Date : 
-<Details> Details of Patch Here!
+##### *Date  
+<details>
+  Details of Patch Here!
+</details>
 
-* Date : 
-<Details> Details of Patch Here!
+<details>
+  Details of Patch Here!
+</details>
 
 ## INB1301 (Lab 1B)
-* Date : 
-<Details> Details of Patch Here!
+##### *Date  
+<details>
+  Details of Patch Here!
+</details>
 
-* Date : 
-<Details> Details of Patch Here!
+<details>
+  Details of Patch Here!
+</details>
 
 ## INB1101 (Lab 1C)
-* Date : 
-<Details> Details of Patch Here!
+##### *Date  
+<details>
+  Details of Patch Here!
+</details>
 
-* Date : 
-<Details> Details of Patch Here!
+<details>
+  Details of Patch Here!
+</details>
 
 ## INB2102 (Lab 2B)
-* Date : 
-<Details> Details of Patch Here!
+##### *Date  
+<details>
+  Details of Patch Here!
+</details>
 
-* Date : 
-<Details> Details of Patch Here!
+<details>
+  Details of Patch Here!
+</details>
 
 ## INB2305 (Lab 2C)
-* Date : 
-<Details> Details of Patch Here!
+##### *Date  
+<details>
+  Details of Patch Here!
+</details>
 
-* Date : 
-<Details> Details of Patch Here!
+<details>
+  Details of Patch Here!
+</details>
