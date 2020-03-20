@@ -3,15 +3,15 @@ The purpose of this repository is to inform students and staff of alterations th
 
 # Current Status of Each Lab:
 ##### INB1102 (Lab 1A)
-    * Case : ?\  
-    * Motherboard : ?\  
-    * CPU : ?\
-    * GPU : ?\  
-    * PSU : ?\ 
-    * OS(s) : ?\  
-    * RAM : ?\
-    * Storage : ?\  
-    * Software: ?\ 
+* Case : ?  
+* Motherboard : ?    
+* CPU : ?  
+* GPU : ?   
+* PSU : ?  
+* OS(s) : ?    
+* RAM : ?  
+* Storage : ?    
+* Software: ?  
 
 <details>
     <summary><INB1301 (Lab 1B)></summary>
