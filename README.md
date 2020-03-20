@@ -2,22 +2,10 @@
 The purpose of this repository is to inform students and staff of alterations that have been made to the UoL SoCS computing labs.
 
 # Current Status of Each Lab:
-##### INB1102 (Lab 1A)
-* Case : ?  
-* Motherboard : ?    
-* CPU : ?  
-* GPU : ?   
-* PSU : ?  
-* OS(s) : ?    
-* RAM : ?  
-* Storage : ?    
-* Software: ?  
 
-<details><summary>Click for INB1102 (Lab 1A) Details</summary>
+<details>##### INB1102 (Lab 1A)
+
 <p>
-    
-#### INB1102 (Lab 1A):
-
 * Case : ?  
 * Motherboard : ?    
 * CPU : ?  
@@ -27,8 +15,8 @@ The purpose of this repository is to inform students and staff of alterations th
 * RAM : ?  
 * Storage : ?    
 * Software: ?  
-
 </p>
+
 </details>
 
 <details>
