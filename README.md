@@ -6,6 +6,7 @@ The purpose of this repository is to inform students and staff of alterations th
 <details><summary>INB1102 (Lab 1A)</summary>
 
 <p>
+    
 * Case : ?  
 * Motherboard : ?    
 * CPU : ?  
@@ -15,6 +16,7 @@ The purpose of this repository is to inform students and staff of alterations th
 * RAM : ?  
 * Storage : ?    
 * Software: ?  
+
 </p>
 
 </details>
