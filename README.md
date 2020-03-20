@@ -69,7 +69,7 @@ The purpose of this repository is to inform students and staff of alterations th
 
 # Patch Notes of Each Lab:
 ## <INB1102 (Lab 1A)>
-##### *Date  
+##### * Date  
 <details>
   Details of Patch Here!
 </details>
