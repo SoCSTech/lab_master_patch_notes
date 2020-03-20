@@ -20,57 +20,76 @@ The purpose of this repository is to inform students and staff of alterations th
 </p>
 
 </details>
+<details><summary>INB1301 (Lab 1B)</summary>
 
-<details>
-    <summary><INB1301 (Lab 1B)></summary>
-    * Case : ?  
-    * Motherboard : ?  
-    * CPU : ?  
-    * GPU : ?  
-    * PSU : ?  
-    * OS(s) : ?  
-    * RAM : ?  
-    * Storage : ?  
-    * Software: ?  
+<p>
+    
+* Case : ?  
+* Motherboard : ?    
+* CPU : ?  
+* GPU : ?   
+* PSU : ?  
+* OS(s) : ?    
+* RAM : ?  
+* Storage : ?    
+* Software: ?  
+
+</p>
+
 </details>
-  
-<details>
-    <summary><INB1101 (Lab 1C)></summary>
-    * Case : ?  
-    * Motherboard : ?  
-    * CPU : ?  
-    * GPU : ?  
-    * PSU : ?  
-    * OS(s) : ?  
-    * RAM : ?  
-    * Storage : ?  
-    * Software: ?  
+
+<details><summary>INB1101 (Lab 1C)</summary>
+
+<p>
+    
+* Case : ?  
+* Motherboard : ?    
+* CPU : ?  
+* GPU : ?   
+* PSU : ?  
+* OS(s) : ?    
+* RAM : ?  
+* Storage : ?    
+* Software: ?  
+
+</p>
+
 </details>
-  
-<details>
-    <summary><INB2102 (Lab 2B)></summary>
-    * Case : ?  
-    * Motherboard : ?  
-    * CPU : ?  
-    * GPU : ?  
-    * PSU : ?  
-    * OS(s) : ?  
-    * RAM : ?  
-    * Storage : ?  
-    * Software: ?  
+
+<details><summary>INB2102 (Lab 2B)</summary>
+
+<p>
+    
+* Case : ?  
+* Motherboard : ?    
+* CPU : ?  
+* GPU : ?   
+* PSU : ?  
+* OS(s) : ?    
+* RAM : ?  
+* Storage : ?    
+* Software: ?  
+
+</p>
+
 </details>
-  
-<details>
-    <summary><INB2305 (Lab 2C)></summary>
-    * Case : ?  
-    * Motherboard : ?  
-    * CPU : ?  
-    * GPU : ?  
-    * PSU : ?  
-    * OS(s) : ?  
-    * RAM : ?  
-    * Storage : ?  
-    * Software: ? 
+
+<details><summary>INB2305 (Lab 2C)</summary>
+
+<p>
+    
+* Case : ?  
+* Motherboard : ?    
+* CPU : ?  
+* GPU : ?   
+* PSU : ?  
+* OS(s) : ?    
+* RAM : ?  
+* Storage : ?    
+* Software: ?  
+
+</p>
+
 </details>
 
 # Patch Notes of Each Lab:
