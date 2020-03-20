@@ -13,6 +13,24 @@ The purpose of this repository is to inform students and staff of alterations th
 * Storage : ?    
 * Software: ?  
 
+<details><summary>Click for INB1102 (Lab 1A) Details</summary>
+<p>
+    
+#### INB1102 (Lab 1A):
+
+* Case : ?  
+* Motherboard : ?    
+* CPU : ?  
+* GPU : ?   
+* PSU : ?  
+* OS(s) : ?    
+* RAM : ?  
+* Storage : ?    
+* Software: ?  
+
+</p>
+</details>
+
 <details>
     <summary><INB1301 (Lab 1B)></summary>
     * Case : ?  
