@@ -2,7 +2,7 @@
 The purpose of this repository is to inform students and staff of alterations that have been made to the UoL SoCS computing labs.
 
 # Current Status of Each Lab:
-# INB1102 (Lab 1A)
+<>INB1102 (Lab 1A)<>
 ?
 
 # INB1301 (Lab 1B)
