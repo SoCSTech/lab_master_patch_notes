@@ -3,7 +3,7 @@ The purpose of this repository is to inform students and staff of alterations th
 
 # Current Status of Each Lab:
 
-<details>##### INB1102 (Lab 1A)
+<details><summary>INB1102 (Lab 1A)</summary>
 
 <p>
 * Case : ?  
