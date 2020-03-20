@@ -93,14 +93,24 @@ The purpose of this repository is to inform students and staff of alterations th
 </details>
 
 # Patch Notes of Each Lab:
+
 ## <INB1102 (Lab 1A)>
 ##### * Date  
-<details>
-  Details of Patch Here!
-</details>
 
-<details>
-  Details of Patch Here!
+<details><summary>INB1102 (Lab 1A)</summary>
+    <details><summary>Date1</summary>
+    <p>
+        
+</p>
+        
+</details>
+<details><summary>Date2</summary>
+    <p>
+        
+</p>
+        
+</details>
+    
 </details>
 
 ## INB1301 (Lab 1B)
